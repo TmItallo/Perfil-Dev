@@ -35,5 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Perfil Dev é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](http://127.0.0.1:5500/index.html)
+- [Acesse o projeto finalizado, online](https://tmitallo.github.io/Perfil-Dev/)
 
